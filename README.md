@@ -2,7 +2,7 @@
 Python script to fetch SMILES strings from PubChem API for chemical compounds.
 # PubChem SMILES Retriever
 
-A Python script to fetch SMILES strings for chemical compounds from the PubChem API. Handles batch processing, errors, and saves results to CSV—great for cheminformatics workflows.
+A Python script to fetch SMILES strings for chemical compounds from the PubChem API. Handles batch processing, errors, and saves results to CSV, great for cheminformatics workflows.
 
 ## Quick Demo
 Run the script and it processes a list of compounds, printing progress and saving `compound_smiles.csv`.
